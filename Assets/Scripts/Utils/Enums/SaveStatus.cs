@@ -1,0 +1,8 @@
+public enum SaveStatus
+{
+	SUCCESS,
+	FORMAT_NAME,
+	FILE_ERROR,
+	FAILED,
+	TRY_DELETE_DEFAULT_USER
+}
